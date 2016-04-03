@@ -1,0 +1,9 @@
+D:\C#程序\PPTPlay\PPTPlay\obj\x86\Debug\PPTPlay.csprojResolveAssemblyReference.cache
+D:\C#程序\PPTPlay\PPTPlay\obj\x86\Debug\PPTPlay.Form1.resources
+D:\C#程序\PPTPlay\PPTPlay\obj\x86\Debug\PPTPlay.Properties.Resources.resources
+D:\C#程序\PPTPlay\PPTPlay\obj\x86\Debug\PPTPlay.csproj.GenerateResource.Cache
+D:\C#程序\PPTPlay\PPTPlay\bin\Debug\PPTPlay.exe
+D:\C#程序\PPTPlay\PPTPlay\bin\Debug\PPTPlay.pdb
+D:\C#程序\PPTPlay\PPTPlay\bin\Debug\ThoughtWorks.QRCode.dll
+D:\C#程序\PPTPlay\PPTPlay\obj\x86\Debug\PPTPlay.exe
+D:\C#程序\PPTPlay\PPTPlay\obj\x86\Debug\PPTPlay.pdb
