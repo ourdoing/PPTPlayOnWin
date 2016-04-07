@@ -175,7 +175,7 @@ namespace PPTPlay
         {
             if (this.WindowState == FormWindowState.Normal)
             {
-                this.WindowState = FormWindowState.Minimized;              
+                this.WindowState = FormWindowState.Minimized;   //546           
                 
             }
             else if (this.WindowState == FormWindowState.Minimized)

@@ -7,3 +7,5 @@ D:\C#程序\PPTPlay\PPTPlay\bin\Debug\PPTPlay.pdb
 D:\C#程序\PPTPlay\PPTPlay\bin\Debug\ThoughtWorks.QRCode.dll
 D:\C#程序\PPTPlay\PPTPlay\obj\x86\Debug\PPTPlay.exe
 D:\C#程序\PPTPlay\PPTPlay\obj\x86\Debug\PPTPlay.pdb
+C:\Users\zwl\Documents\Visual Studio 2010\Projects\PPTPlayOnWin\PPTPlay\PPTPlay\obj\x86\Debug\PPTPlay.exe
+C:\Users\zwl\Documents\Visual Studio 2010\Projects\PPTPlayOnWin\PPTPlay\PPTPlay\obj\x86\Debug\PPTPlay.pdb
